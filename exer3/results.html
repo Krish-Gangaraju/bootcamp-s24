@@ -1,0 +1,152 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+    
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
+</head>
+
+    
+<body style="background-color: gray;">
+
+    <!-- Navbar in Tailwind -->
+    <nav class="fixed w-full z-20 top-0 start-0 border-b border-gray-200">
+        <div class="bar" style="margin-top: 5%;">
+            <input class="searchbar" type="text" title="Search" placeholder="Who is Krish Gangaraju..." readonly="readonly" style="pointer-events: none">  
+        </div>
+        <br><br>
+      </div>
+    </nav>
+
+    <!-- Content -->
+
+
+
+    <center>
+    <div class = "card" style = "margin-top: 14%;">
+    <div class="card-content">
+      <div class="image">
+        <img src="https://cdn.discordapp.com/attachments/935941353727205407/1197353333778813018/Screen_Shot_2024-01-17_at_8.34.35_PM.png?ex=65baf530&is=65a88030&hm=953edaed0fd949c2a3b53eda12f4c9902950db12ffd63f8c040f824b474a3e81&" alt="Profile Image">
+      </div>
+      <h2>Krish Gangaraju</h2>
+    </div>
+  </div>
+    </center>    
+
+
+
+    
+    <div class="flex-container" style = "margin-top: 3%;">
+      <div class="flex-child">Flex Column 1 
+          <p><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim.</p>
+      </div>
+      <div class="flex-child">Flex Column 2 
+            <p><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim.</p</div>
+    </div>
+    
+</body>
+
+
+<style>
+    .flex-container {
+        display: flex;
+    }
+
+    .flex-child {
+        flex: 1;
+        border: 2px solid white;
+        border-radius: 10px;
+        padding: 20px;
+        width: 200px;
+        height: 280px;
+        gap: 20px;
+    }  
+
+    .flex-child:first-child {
+        margin-right: 20px;
+    } 
+
+
+    .card {
+      width: 30rem;
+      height: 18rem;
+      border-radius: 10px;
+      overflow: hidden;
+      cursor: pointer;
+      position: relative;
+      color: #f0f0f0;
+      box-shadow: -5px -5px 15px -4px rgba(0,0,0,0.1);
+      background: linear-gradient(to top, rgba(28, 171, 238, 0.7), rgba(253, 252, 252, 0.21));
+    }
+
+    .card img {
+      position: absolute;
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      opacity: 0.9;
+      transition: opacity 0.2s ease-out;
+    }
+
+    .image img {
+      height: auto;
+      width: 200px;
+      border-radius: 50%;
+      display: block;
+      margin-left: 30%;
+      margin-top: 20px;
+    }
+
+    .card h2 {
+      inset: auto auto 30px 30px;
+      margin: 0;
+      position: absolute;
+      bottom: 10;
+      left: 35%;
+      transition: inset 0.3s 0.3s ease-out;
+      font-family: "Roboto Condensed", sans-serif;
+      font-weight: normal;
+      text-transform: uppercase;
+    }
+
+    
+    
+    .bar{
+      margin:0 auto;
+      width:575px;
+      border-radius:30px;
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      background-color: white;
+    }
+    
+    .searchbar{
+      height:45px;
+      border:none;
+      width:500px;
+      font-size:16px;
+      outline: none;
+    }
+
+    .button{
+      background-color: #f5f5f5;
+      border:none;
+      color:#707070;
+      font-size:15px;
+      padding: 10px 20px;
+      margin:5px;
+      border-radius:4px;
+      outline:none;
+    }
+    .button:hover{
+      border: 1px solid #c8c8c8;
+      padding: 9px 19px;
+      color:#808080;
+    }
+</style>
+
+</html>
