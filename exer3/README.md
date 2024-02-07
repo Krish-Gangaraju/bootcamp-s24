@@ -1,3 +1,7 @@
+# My Submission
+1. index.html leads to results.html (click the button that says "Click Me to Search")
+
+
 # Exercise 3 - Frontend Practice
 
 ## Description
