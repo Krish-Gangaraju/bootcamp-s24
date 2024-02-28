@@ -1,0 +1,201 @@
+.normal {
+  background-color: #A8A77A;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.fire {
+  background-color: #EE8130;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.water {
+  background-color: #6390F0;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.electric {
+  background-color: #F7D02C;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.ice {
+  background-color: #96D9D6;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.fighting {
+  background-color: #C22E28;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.ground {
+  background-color: #E2BF65;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.flying {
+  background-color: #A98FF3;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.psychic {
+  background-color: #F95587;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.bug {
+  background-color: #A6B91A;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.rock {
+  background-color: #B6A136;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.ghost {
+  background-color: #735797;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.dragon {
+  background-color: #6F35FC;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.dark {
+  background-color: #705746;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.steel {
+  background-color: #B7B7CE;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.fairy {
+  background-color: #D685AD;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+
+.grass {
+  background-color: #7AC74C;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+.poison {
+  background-color: #A33EA1;
+  border-radius: 7px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 11px;
+  padding-right: 11px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap')
